@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jacob, a PhD student in the labs of Dr Leopold Parts and Dr Oliver Stegle. I'm interested in anything related to gene regulation! 🧬🧬🧬
+I'm Jacob - I like to model biology with ML models 🧬🧬🧬
 
 <!--
 **jacobhepkema/jacobhepkema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

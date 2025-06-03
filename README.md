@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm Jacob - I like to model biology with ML models 🧬🧬🧬
+🧬🧬🧬
 
 <!--
 **jacobhepkema/jacobhepkema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
